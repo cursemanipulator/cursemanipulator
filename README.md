@@ -3,6 +3,8 @@
 <code style = "color:E03704">do you really want to dig inside my mind and look in side there’s not a lot of good but hey hello.</code>
 
 ${test}{\textbf{test}}$
+
+$\colour{darkred}{\textbf{hey!}}$
 <!--
 **cursemanipulator/cursemanipulator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
