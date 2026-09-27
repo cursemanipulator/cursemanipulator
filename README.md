@@ -2,7 +2,7 @@
 
 <code style = "color:E03704">do you really want to dig inside my mind and look in side there’s not a lot of good but hey hello.</code>
 
-$\{do you really want to dig inside my mind and look in side there’s not a lot of good but hey hello.}{\textbf{}}$
+$\{do you really want to dig inside my mind and look in side theres not a lot of good but hey hello.}{\textbf{}}$
 
 
 <!--
