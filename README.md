@@ -7,26 +7,6 @@ $\{                             . . .}{\textbf{}}$
 
 $${\color{orange}do you really want to dig inside my mind and look inside there’s not a lot of good but hey hello.}$$
 
-
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
 <!--
 **cursemanipulator/cursemanipulator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
