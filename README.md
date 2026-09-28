@@ -1,6 +1,6 @@
 <img width="498" height="207" alt="654731296-a153d333-d570-4188-90ea-f102531888b3" src="https://github.com/user-attachments/assets/1395fdaf-2e01-4f39-a180-464f34bf43c1" />
 
-<code style = "color:E03704">do you really want to dig inside my mind and look inside there’s not a lot of good but hey hello.</code>
+<code style = "color:E03704">.</code>
 
 $\{                             . . .}{\textbf{}}$
 
