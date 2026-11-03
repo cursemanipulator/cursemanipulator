@@ -6,7 +6,6 @@ $\{                             . . .}{\textbf{}}$
 
 
 $${\color{orange}do you really want to dig inside my mind and look inside there’s not a lot of good but hey hello.}$$
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F74F20&width=435&lines=do+you+really+want+to+dig+inside+my+mind+andlook+inside+there’s+not+a+lot+of+good+but+hey+hello..)](https://git.io/typing-svg)
 <!--
 **cursemanipulator/cursemanipulator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
